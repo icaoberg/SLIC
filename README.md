@@ -1,4 +1,4 @@
-# README
+# Subcellular Localization Image Classifier
 
 To compile all mex files type in shell
 
